@@ -1,3 +1,4 @@
 # hello-world
-first repository\n
+first repository
+
 Starting with this, I'll grow grasses.
